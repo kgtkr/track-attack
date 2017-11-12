@@ -157,7 +157,6 @@ phina.main(function () {
         fps: 60,
         title: "TrackAttack",
         assets: ASSETS,
-        fit:false
     });
     app.run();
 });
